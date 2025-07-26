@@ -1,0 +1,7 @@
+Timestamp,City,Temperature (°C),Wind Speed (m/s),Humidity (%),Condition,Analysis
+26-07-2025 07:19,Bengaluru,24.51,6.17,81,broken clouds,Hot (≥25°C) | Humid conditions!
+26-07-2025 07:20,Mumbai,28.99,7.2,84,mist,Hot (≥25°C) | Humid conditions!
+26-07-2025 07:20,Chennai,33.3,5.14,65,scattered clouds,Hot (≥25°C)
+26-07-2025 07:20,Hyderabad,24.23,7.2,94,moderate rain,Hot (≥25°C) | Humid conditions!
+26-07-2025 07:20,Delhi Cantonment,32.99,1.03,62,haze,Hot (≥25°C)
+26-07-2025 07:21,Pune,25.78,4.44,93,overcast clouds,Hot (≥25°C) | Humid conditions!
