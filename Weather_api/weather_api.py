@@ -82,7 +82,7 @@ if __name__ == "__main__":
     # api_key from  open weather 
     API_KEY = "api_key" # removed the key # u can use ur personal key 
     
-    ## using the city id from the city.list json data file 
+    ## using the city id from the city.list json data file from openweather website  
     #CITY_ID = 1277333  # Bangalore
     #CITY_ID = 1275339  # Mumbai
     #CITY_ID = 1264527  # chennai
